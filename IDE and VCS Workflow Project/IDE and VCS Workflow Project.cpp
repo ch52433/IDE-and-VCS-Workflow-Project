@@ -6,10 +6,11 @@ using namespace std;
 int main(){
 	char first, middle, last;
 	// Store your initials in these variables
-	first = 'S';
-	middle = 'K';
-	last = 'S';
+	first = 'P';
+	middle = 'I';
+	last = 'U';
 	cout << first << middle << last << endl;
 	return 0;
 }
 
+// hello
